@@ -1,0 +1,7 @@
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+C:\Users\Saya\OneDrive\Desktop\Net Centric\bubblesort\bubblesort\obj\Debug\bubblesort.pdb
